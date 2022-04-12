@@ -1,0 +1,19 @@
+.grilla {
+    width: 488px;
+    height: 488px;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.cuadrado {
+    width: 120px;
+    height: 120px;
+    border: solid black 1px;
+    background-image: url("imgs/roca.png");
+    background-size: cover;
+}
+
+.topo {
+    background-image: url("imgs/drillbur.png");
+    background-size: cover;
+}
